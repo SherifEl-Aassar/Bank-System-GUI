@@ -1,0 +1,35 @@
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.AccountsMenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.AdminLoginForm.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.AdminMenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.CheckingMenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.ForgotPassForm.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.Form1.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.LoanMenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.LoginForm.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.Properties.Resources.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank_System_GUI.SavingMenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank System-GUI.csproj.GenerateResource.Cache
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\RdlCompile.cache
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\Bank System-GUI.exe.config
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\Bank System-GUI.exe
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\Bank System-GUI.pdb
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\MetroFramework.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank System-GUI.exe
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank System-GUI.pdb
+C:\Users\Sherif\documents\visual studio 2015\Projects\Bank System-GUI\Bank System-GUI\obj\Debug\Bank System-GUI.csprojResolveAssemblyReference.cache
